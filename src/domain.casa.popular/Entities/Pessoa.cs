@@ -9,5 +9,6 @@
         public int Idade { get; set; }
         public char Sexo { get; set; }
         public decimal Salario { get; set; }
+        public virtual Familia? Familia { get; set; }
     }
 }
