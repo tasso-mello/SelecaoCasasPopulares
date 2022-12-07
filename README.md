@@ -20,7 +20,7 @@
 	<li>Após isso, execute o projeto <b>api.casa.popular</b></li>
 </ul>
 
-**O Navegador será aberto com a documentação swagger**
+**O Navegador será aberto no swagger**
 ![image](https://user-images.githubusercontent.com/73311950/206090084-b4dd1a23-c51e-4fa8-a87b-7fc81c78c258.png)
 
 **Após executar o projeto, haverá 3 controladores disponíveis**
