@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\domain.casa.popular\domain.casa.popular.csproj" />
+    <ProjectReference Include="..\repository.casa.popular\repository.casa.popular.csproj" />
+  </ItemGroup>
+
+</Project>
