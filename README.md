@@ -14,6 +14,21 @@
 
 <ul>
 	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina;</li>
-	<li>Após isso, abra o <b>Package Manager Console</b> e execute o comando <b>update-database</b>;</li>
+	<li>Após isso, abra o <b>Package Manager Console</b>, selecione o Projeto padrão:<b>repository.casa.popular</b>;</li>
+	<li>execute o comando <b>update-database</b>;</li>
 	<li>Após isso, execute o projeto <b>api.casa.popular</b></li>
 </ul>
+
+**O Navegador será aberto com a documentação swagger**
+![image](https://user-images.githubusercontent.com/73311950/206090084-b4dd1a23-c51e-4fa8-a87b-7fc81c78c258.png)
+
+**Após executar o projeto, haverá 3 controladores disponíveis**
+
+<ul>
+	<li>Familia;</li>
+	<li>Pessoa;</li>
+	<li>SelecaoFamilias</li>
+</ul>
+![image](https://user-images.githubusercontent.com/73311950/206090456-e92fdbb1-6e71-40d5-ad40-a87a71ade812.png)
+
+**Alguns dados serão incluídos de forma aleatória em sua base de dados local**
