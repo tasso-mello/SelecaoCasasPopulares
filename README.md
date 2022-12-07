@@ -14,4 +14,5 @@
 
 <ul>
 	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina.</li>
+	<li>Após isso, abra o <b>Package Manager Console</b> e execute o comando **update-database**.</li>
 </ul>
