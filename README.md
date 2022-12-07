@@ -14,7 +14,8 @@
 
 <ul>
 	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina;</li>
-	<li>Após isso, abra o <b>Package Manager Console</b>, selecione o Projeto padrão:<b>repository.casa.popular</b>;</li>
+	<li>Crie uma base de dados com o nome "CasaPopular" em sua instância <i>localhost</i>;</li>
+	<li>Após isso, abra o <b>Package Manager Console</b>, selecione o Projeto padrão: <b>repository.casa.popular</b>;</li>
 	<li>execute o comando <b>update-database</b>;</li>
 	<li>Após isso, execute o projeto <b>api.casa.popular</b></li>
 </ul>
