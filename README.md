@@ -37,7 +37,7 @@
 <ul>
 	<li>Para listar um registro específico, use o sem rota definida</li>
 	<li>Para listar registros com paginação, use o <b>take</b></li>
-	<li>Para filtrar registros com paginação, use o <b>filter</b> passando o parâmetro</li>
+	<li>Para filtrar registros com paginação, use o <b>filter</b> passando o parâmetro {filter}</li>
 </ul>
 
 **Exemplo retorno com paginação**
