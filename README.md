@@ -11,3 +11,7 @@
 # 🛠️ Abrir e rodar o projeto
 
 **Após baixar o projeto, abra o arquivo <b>*.sln</b> em Visual Studio 2022**
+
+<ul>
+	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina.</li>
+</ul>
