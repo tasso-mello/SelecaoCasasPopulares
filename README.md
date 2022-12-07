@@ -25,11 +25,21 @@
 **Após executar o projeto, haverá 3 controladores disponíveis**
 
 <ul>
-	<li>Familia;</li>
-	<li>Pessoa;</li>
-	<li>SelecaoFamilias</li>
+	<li>Familia (com paginação);</li>
+	<li>Pessoa (com paginação);</li>
+	<li>SelecaoFamilias (sem paginação)</li>
 </ul>
+
 ![image](https://user-images.githubusercontent.com/73311950/206090905-bd60455e-d5bd-4590-9713-e1428950990d.png)
 
-
 **Alguns dados serão incluídos de forma aleatória em sua base de dados local**
+<ul>
+	<li>Para listar um registro específico, use o sem rota definida</li>
+	<li>Para listar registros com paginação, use o <b>take</b></li>
+	<li>Para filtrar registros com paginação, use o <b>filter</b> passando o parâmetro</li>
+</ul>
+
+**Exemplo retorno com paginação**
+
+![image](https://user-images.githubusercontent.com/73311950/206091667-82b84e3d-3be6-4805-bf85-f7b402888c27.png)
+
