@@ -44,3 +44,10 @@
 
 ![image](https://user-images.githubusercontent.com/73311950/206091667-82b84e3d-3be6-4805-bf85-f7b402888c27.png)
 
+<ul>
+	<li>Nome do objeto de retorno:[resultado]</li>
+	<li>nextpage: parametro para próxima página</li>
+	<li>previouspage: parametro para página anterior</li>
+	<li>pages: numero total de páginas</li>
+	<li>totalregisters: número total de registros</li>
+</ul>
