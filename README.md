@@ -13,6 +13,7 @@
 **Após baixar o projeto, abra o arquivo <b>*.sln</b> em Visual Studio 2022**
 
 <ul>
-	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina.</li>
-	<li>Após isso, abra o <b>Package Manager Console</b> e execute o comando **update-database**.</li>
+	<li>Antes de executar o projeto, certifique que há uma instância do SQL instalada na máquina;</li>
+	<li>Após isso, abra o <b>Package Manager Console</b> e execute o comando <b>update-database</b>;</li>
+	<li>Após isso, execute o projeto <b>api.casa.popular</b></li>
 </ul>
