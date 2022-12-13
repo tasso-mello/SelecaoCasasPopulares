@@ -28,4 +28,10 @@
     <ProjectReference Include="..\..\src\core.casa.popular\core.casa.popular.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="appsettings.test.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
